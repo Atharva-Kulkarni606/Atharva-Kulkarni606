@@ -32,7 +32,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: pranavjeurkar@gmail.com
+- 📫 How to reach me: katharva606@gmail.com
 
 <hr>
  <h2 align="center">Languages Known</h2>
@@ -69,7 +69,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </div>
 <hr>
 
-<a href="www.linkedin.com/in/atharva-kulkarni-a2387b1ab/">
+<a href="https://www.linkedin.com/in/atharva-kulkarni-a2387b1ab/">
   <img align="left" alt="Atharva's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
