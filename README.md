@@ -65,3 +65,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <a href="mailto:katharva606@gmail.com">
   <img align="left" alt="Atharva's Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a  href= "https://leetcode.com/superstar_2000/">
+  <img align="left" alt="Atharva's LeetCode" width="125px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+
