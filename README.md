@@ -8,10 +8,10 @@
 
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/pranavjeurkar/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavJeurkar&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=PranavJeurkar&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=PranavJeurkar&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Atharva-Kulkarni606/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Kulkarni606&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Atharva-Kulkarni606&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva-Kulkarni606&theme=chartreuse-dark"></p>
 
 <p>
 A Skilled  JavaScript Developer 🚀 from India. Always working on some project or learning something new!
@@ -69,14 +69,11 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </div>
 <hr>
 
-<a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
-  <img align="left" alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="www.linkedin.com/in/atharva-kulkarni-a2387b1ab/">
+  <img align="left" alt="Atharva's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/pranav_jeurkar">
-  <img align="left" alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:katharva606@gmail.com">
+  <img align="left" alt="Atharva's Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
