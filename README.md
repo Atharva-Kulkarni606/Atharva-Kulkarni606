@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PranavJeurkar/PranavJeurkar/blob/main/code.png" width="750" height="450">
+  <img src="https://github.com/Atharva-Kulkarni606/Atharva-Kulkarni606/blob/main/code.png" width="750" height="450">
 </p>
 
 ### Hi there 👋, I'm [Atharva](https://github.com/Atharva-Kulkarni606) 👨‍💻
