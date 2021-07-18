@@ -14,24 +14,21 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva-Kulkarni606&theme=chartreuse-dark"></p>
 
 <p>
-A Skilled  JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+I am a final year student at PICT PUNE,pursuing  B.E. in E&TC Engineering.
 <br/>
-Stacks I have worked with : Flutter , React+Firebase .
+I have keen interest in problem solving and building things.
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+I have solved a bunch(400+) problems on different online coding platforms.
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+  I also have interest in web development. I have built some projects using Html,Css,Javascript,ReactJs.
 </p>
 
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-<!--- ⚡ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 👨🏽‍💻 I’m currently strengthening my problem solving skills
+- 🌱 I’m currently learning ReactJs.
+- 🎿 Hobbies other than coding : Listening to classical music,playing cricket.
 - 📫 How to reach me: katharva606@gmail.com
 
 <hr>
