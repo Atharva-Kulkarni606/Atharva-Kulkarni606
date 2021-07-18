@@ -53,7 +53,7 @@ I have solved a bunch(400+) problems on different online coding platforms.
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <hr>
-
+<div align = "center">
 <a href="https://www.linkedin.com/in/atharva-kulkarni-a2387b1ab/">
   <img align="left" alt="Atharva's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -67,4 +67,5 @@ I have solved a bunch(400+) problems on different online coding platforms.
   <img align="left" alt="Atharva's LeetCode" width="125px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
+ </div>
 
