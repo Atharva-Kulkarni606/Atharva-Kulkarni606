@@ -18,7 +18,7 @@ I am a final year student at PICT PUNE,pursuing  B.E. in E&TC Engineering.
 <br/>
 I have keen interest in problem solving and building things.
 <br/>  
-I have solved a bunch(400+) problems on different online coding platforms.
+I have solved a bunch(500+) problems on different online coding platforms.
 <br/>
   I also have interest in web development. I have built some projects using Html,Css,Javascript,ReactJs.
 </p>
