@@ -29,7 +29,7 @@ I have solved a bunch(500+) problems on different online coding platforms.
 - 👨🏽‍💻 I’m currently strengthening my problem solving skills
 - 🌱 I’m currently learning ReactJs.
 - 🎿 Hobbies other than coding : Listening to classical music,playing cricket.
-- 📫 How to reach me: katharva606@gmail.com
+- 📫 How to reach me: katharva929@gmail.com
 
 <hr>
  <h2 align="center">Languages Known</h2>
