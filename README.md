@@ -14,20 +14,20 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva-Kulkarni606&theme=chartreuse-dark"></p>
 
 <p>
-I am a final year student at PICT PUNE,pursuing  B.E. in E&TC Engineering.
+I work as a Software Engineer 1 @Rocket Software.
 <br/>
 I have keen interest in problem solving and building things.
 <br/>  
-I have solved a bunch(500+) problems on different online coding platforms.
+I have solved a bunch(800+) DSA problems on different online coding platforms.
 <br/>
-  I also have interest in web development. I have built some projects using Html,Css,Javascript,ReactJs.
+  I love to build stuff using technology :).
 </p>
 
   
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently strengthening my problem solving skills
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning Java.
 - 🎿 Hobbies other than coding : Listening to classical music,playing cricket.
 - 📫 How to reach me: katharva929@gmail.com
 
